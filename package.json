@@ -44,7 +44,7 @@
     "bson": "^4.0.2",
     "int53": "^1.0.0",
     "node-int64": "^0.4.0",
-    "thrift": "^0.12.0",
+    "thrift": "^0.18.1",
     "varint": "^5.0.0"
   },
   "runtimeDependencies": {
